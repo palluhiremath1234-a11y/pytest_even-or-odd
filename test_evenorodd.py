@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 from evenorodd import check_even_odd
+=======
+from even or odd import check_even_odd
+>>>>>>> e29213242f9393157edea56579116bf5af8ad64e
 
 def test_even_number():
     assert check_even_odd(10) == "Even"
